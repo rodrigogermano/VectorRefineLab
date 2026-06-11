@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VectorRefineLab.Console/VectorRefineLab.Console.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET: VectorRefineLab.Console",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/VectorRefineLab.Console/bin/Debug/net10.0/VectorRefineLab.Console.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/VectorRefineLab.Console",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}
